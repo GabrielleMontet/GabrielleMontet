@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Gabrielle!
+# 👋 Hi, I’m Gabrielle!
 I'm a career switcher from law into front end development. 
 ## 🌱 I’m currently learning:
 JavaScript, HTML, CSS, Node.js, and also the basics of Python, Express.js, MongoDB, Flexbox and Bootstrap.
