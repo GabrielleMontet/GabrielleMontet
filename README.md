@@ -4,7 +4,9 @@ I'm a career switcher from law into front end development.
 JavaScript, HTML, CSS, Node.js, and also the basics of Python, Express.js, MongoDB, Flexbox and Bootstrap.
 ## 📫 How to reach me:
 :email: gabriellemontet7@gmail.com
- :computer: [My LinkedIn profile]([https://www.google.com](https://www.linkedin.com/in/gabriellemontet/)) 
+
+
+ :computer: [My LinkedIn profile](https://www.linkedin.com/in/gabriellemontet/) 
 
 <!---
 GabrielleMontet/GabrielleMontet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
